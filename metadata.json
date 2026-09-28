@@ -1,0 +1,8 @@
+{
+  "name": "SpearMan",
+  "description": "Interactive sperm race to the egg and random winner picker with realistic flagella fluid physics, swimming sprint pacing, custom participant lists, Web Audio sound effects, and podium leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
